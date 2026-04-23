@@ -19,7 +19,7 @@ REQUIRED_COLUMNS = [
     "Legal Unit", "Topic", "Old Version", "New Version",
     "Change Type", "Practical Impact", "Materiality", "Explanation",
 ]
-ALLOWED_CHANGE_TYPES     = {"Added", "Removed", "Unchanged"}
+ALLOWED_CHANGE_TYPES     = {"Added", "Removed"}
 ALLOWED_PRACTICAL_IMPACT = {"None", "Low", "Medium", "High"}
 ALLOWED_MATERIALITY      = {"Editorial", "Procedural", "Substantive"}
 
@@ -78,7 +78,6 @@ affect legal substance.
 |---|---|---|---|---|---|---|---|
 | Article 3 | Exposure limit values | Daily ELV: 2.5 m/s² | Daily ELV: 1.15 m/s² | Removed | High | Substantive | 2008 version set ELV at 2.5 m/s². Evidence: Art.3(1) old. |
 | Article 3 | Exposure limit values | — | Daily ELV: 1.15 m/s² | Added | High | Substantive | 2019 version reduces ELV. Evidence: Art.3(1) new. |
-| Article 5 | Health surveillance | Employer shall provide | Employer shall ensure | Unchanged | None | Editorial | Wording differs slightly; legal obligation identical. |
 | Annex I | Measurement methods | Referenced ISO 5349 | — | Removed | Medium | Procedural | Annex I removed from 2019 version; standard now referenced in Article 6. |
 """
 

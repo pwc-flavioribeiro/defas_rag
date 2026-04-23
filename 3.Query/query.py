@@ -33,18 +33,18 @@ RULES
 4. "Modified" is NOT an allowed Change Type. Split every modification into:
      • One row  →  Change Type = Removed  (old wording / concept)
      • One row  →  Change Type = Added    (new wording / concept)
-5. Use conservative reasoning: only flag a change when you have textual evidence from BOTH versions.
-6. If uncertain, state the uncertainty explicitly in the Explanation column.
+5. Do NOT include rows where the provision is identical in both versions. Only report actual changes.
+6. Use conservative reasoning: only flag a change when you have textual evidence from BOTH versions.
+7. If uncertain, state the uncertainty explicitly in the Explanation column.
 
 ALLOWED VALUES
 --------------
-Change Type      : Added | Removed | Unchanged
+Change Type      : Added | Removed
 Practical Impact : None | Low | Medium | High
 Materiality      : Editorial | Procedural | Substantive
 
 DECISION RULES
 --------------
-Unchanged   → same legal meaning in both versions
 Added       → genuinely new provision or wording not present before
 Removed     → provision or wording present before and absent now
 None        → no operational impact
