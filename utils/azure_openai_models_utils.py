@@ -192,7 +192,7 @@ class AsyncAzureOpenAIModels:
                 Exception: If the completion request fails.
             """
 
-            self.create_azure_openai_client(model_name= model_name)
+            self.create_azure_openai_client(model_name=model_name)
 
             try:
                 deployment = self.cfg["deployment"]
@@ -202,8 +202,18 @@ class AsyncAzureOpenAIModels:
                     messages=messages,
                     max_completion_tokens=max_token,
                 )
-                    
-                return response.choices[0].message.content.strip()
+
+                choice  = response.choices[0]
+                content = choice.message.content
+
+                if not content:
+                    raise ValueError(
+                        f"Model returned empty content. "
+                        f"finish_reason='{choice.finish_reason}', "
+                        f"model='{response.model}'"
+                    )
+
+                return content.strip()
 
             except Exception as e:
                 raise e

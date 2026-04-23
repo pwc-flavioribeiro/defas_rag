@@ -27,7 +27,7 @@ def get_pipeline():
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.title("⚖️ DESFA H&S")
+    st.title("⚕️ DESFA H&S")
     st.caption("Health & Safety Law Assistant")
     st.divider()
 
@@ -90,10 +90,14 @@ if prompt := st.chat_input("Ask about H&S laws — e.g. 'What changed in the noi
                 pipeline = get_pipeline()
                 answer, sources = pipeline.run_with_sources(prompt, law_group=selected_law_group)
             except Exception as e:
-                answer = f"Something went wrong: {e}"
+                answer  = None
                 sources = []
+                st.error(f"**Error:** {e}")
 
-        st.markdown(answer)
+        if answer:
+            st.markdown(answer)
+        elif answer is not None:
+            st.warning("The model returned an empty response. Try rephrasing your question.")
 
         if sources:
             with st.expander(f"Sources ({len(sources)} chunks)"):

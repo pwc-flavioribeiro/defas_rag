@@ -15,6 +15,7 @@ CONFIG = {
         "encoding":      "cl100k_base",  # encoding used by text-embedding-ada-002
     },
     "retrieval": {
-        "n_results": 5,
+        "n_results":             5,   # chunks for single-version queries
+        "n_results_comparison":  3,   # chunks per version for comparison (kept low — reasoning model needs output budget)
     },
 }

@@ -13,7 +13,9 @@
       "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/streamlit run app.py --server.port 8501 --server.headless true 2>&1')",
       "Bash(wsl hostname *)",
       "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip install tiktoken 2>&1 | tail -3')",
-      "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip show tiktoken 2>&1 | grep Version')"
+      "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip show tiktoken 2>&1 | grep Version')",
+      "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/pip install pytest -q 2>&1 | tail -2 && ~/.pyenv/versions/desfa_env/bin/pytest tests/test_comparison.py -v 2>&1')",
+      "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/pytest tests/test_comparison.py -v 2>&1')"
     ]
   }
 }
