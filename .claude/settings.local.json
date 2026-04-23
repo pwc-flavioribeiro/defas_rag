@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs file *)",
+      "Bash(python run_ingestion.py)",
+      "Bash(cmd /c \"conda info --base\")",
+      "Bash(cmd /c \"conda --version\")",
+      "Bash(wsl bash *)",
+      "Bash(wsl ~/.pyenv/versions/desfa_env/bin/pip install -r /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa/requirements.txt)",
+      "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/python run_ingestion.py 2>&1')",
+      "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip install streamlit 2>&1 | tail -5')",
+      "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/streamlit run app.py --server.port 8501 2>&1 & *)",
+      "Bash(wsl --exec bash -c 'cd /mnt/c/Users/fribeiro017/Documents/Projetos/Desfa && ~/.pyenv/versions/desfa_env/bin/streamlit run app.py --server.port 8501 --server.headless true 2>&1')",
+      "Bash(wsl hostname *)",
+      "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip install tiktoken 2>&1 | tail -3')",
+      "Bash(wsl --exec bash -c '~/.pyenv/versions/desfa_env/bin/pip show tiktoken 2>&1 | grep Version')"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+openai
+pdfplumber
+pandas
+tabulate
+chromadb
+python-dotenv
+streamlit
+tiktoken

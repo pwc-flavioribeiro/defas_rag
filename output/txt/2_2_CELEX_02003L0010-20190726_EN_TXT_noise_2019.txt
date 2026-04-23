@@ -1,0 +1,630 @@
+
+
+--- PAGE NUMBER: 1 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 1
+
+
+This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability
+for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official
+ Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links
+                         embedded in this document
+
+
+
+►B   DIRECTIVE 2003/10/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+
+                          of 6 February 2003
+    on the minimum health and safety requirements regarding the exposure of workers to the risks
+                     arising from physical agents (noise)
+    (Seventeenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)
+                        (OJ L 42, 15.2.2003, p. 38)
+
+
+
+Amended by:
+
+                                                  Official Journal
+
+                                               No   page   date
+►M1   Directive 2007/30/EC of the European Parliament and of the Council of L 165 21 27.6.2007
+      20 June 2007
+►M2   Regulation (EC) No 1137/2008 of the European Parliament and of the L 311 1 21.11.2008
+      Council of 22 October 2008
+►M3   Regulation (EU) 2019/1243 of the European Parliament and of the L 198 241 25.7.2019
+      Council of 20 June 2019
+
+--- PAGE NUMBER: 2 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 2
+
+▼B
+     DIRECTIVE 2003/10/EC OF THE EUROPEAN PARLIAMENT
+                AND OF THE COUNCIL
+                  of 6 February 2003
+
+     on the minimum health and safety requirements regarding the
+     exposure of workers to the risks arising from physical agents (noise)
+     (Seventeenth individual Directive within the meaning of
+             Article 16(1) of Directive 89/391/EEC)
+
+                     SECTION I
+                 GENERAL PROVISIONS
+
+
+                      Article 1
+                    Aim and scope
+
+     1. This Directive, which is the 17th individual Directive within the
+     meaning of Article 16(1) of Directive 89/391/EEC, lays down minimum
+     requirements for the protection of workers from risks to their health and
+     safety arising or likely to arise from exposure to noise and in particular
+     the risk to hearing.
+
+     2. The requirements of this Directive shall apply to activities in
+     which workers are or are likely to be exposed to risks from noise as
+     a result of their work.
+
+
+     3. Directive 89/391/EEC shall apply fully to the whole area referred
+     to in paragraph 1, without prejudice to more stringent and/or specific
+     provisions contained in this Directive.
+
+
+
+                      Article 2
+
+                     Definitions
+
+     For the purposes of this Directive, the physical parameters used as risk
+     predictors are defined as follows:
+
+
+     (a) peak sound pressure (p
+                    p eak
+                     ): maximum value of the ‘C’-frequency
+       weighted instantaneous noise pressure;
+     (b) daily noise exposure level (L
+                        E X,8h
+                           ) (dB(A) re. 20 μPa): time-
+       weighted average of the noise exposure levels for a nominal
+       eight-hour working day as defined by international standard ISO
+       1999: 1990, point 3.6. It covers all noises present at work,
+       including impulsive noise;
+     (c) weekly noise exposure level (L
+                        E X,8h
+                           ): time-weighted average of the
+       daily noise exposure levels for a nominal week of five eight-hour
+       working days as defined by international standard ISO 1999:1990,
+       point 3.6 (note 2).
+
+--- PAGE NUMBER: 3 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 3
+
+▼B
+                      Article 3
+
+          Exposure limit values and exposure action values
+
+     1. For the purposes of this Directive the exposure limit values and
+     exposure action values in respect of the daily noise exposure levels and
+     peak sound pressure are fixed at:
+     (a) exposure limit values: L
+                    EX,8h
+                        = 87 dB(A) and p
+                                  peak
+                                    = 200 Pa (1 )
+       respectively;
+     (b) upper exposure action values: L
+                         EX,8h
+                            85 dB(A) and p
+                                     peak
+                                        = 140
+       Pa (2 ) respectively;
+     (c) lower exposure action values: L
+                         E X,8h
+                            = 80 dB(A) and p
+                                      peak
+                                        = 112
+       Pa (3 ) respectively.
+     2. When applying the exposure limit values, the determination of the
+     worker's effective exposure shall take account of the attenuation
+     provided by the individual hearing protectors worn by the worker.
+     The exposure action values shall not take account of the effect of any
+     such protectors.
+     3. In duly justified circumstances, for activities where daily noise
+     exposure varies markedly from one working day to the next, Member
+     States may, for the purposes of applying the exposure limit values and
+     the exposure action values, use the weekly noise exposure level in place
+     of the daily noise exposure level to assess the levels of noise to which
+     workers are exposed, on condition that:
+     (a) the weekly noise exposure level as shown by adequate monitoring
+       does not exceed the exposure limit value of 87 dB(A); and
+     (b) appropriate measures are taken in order to reduce the risk associated
+       with these activities to a minimum.
+                     SECTION II
+               OBLIGATIONS OF EMPLOYERS
+                      Article 4
+             Determination and assessment of risks
+     1. In carrying out the obligations laid down in Articles 6(3) and 9(1)
+     of Directive 89/391/EEC, the employer shall assess and, if necessary,
+     measure the levels of noise to which workers are exposed.
+     2. The methods and apparatus used shall be adapted to the prevailing
+     conditions particularly in the light of the characteristics of the noise to
+     be measured, the length of exposure, ambient factors and the characte­
+     ristics of the measuring apparatus.
+     These methods and this apparatus shall make it possible to determine
+     the parameters defined in Article 2 and to decide whether, in a given
+     case, the values fixed in Article 3 have been exceeded.
+     (1 ) 140 dB (C) in relation to 20 μPa.
+     (2 ) 137 dB (C) in relation to 20 μPa.
+     (3 ) 135 dB (C) in relation to 20 μPa.
+
+--- PAGE NUMBER: 4 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 4
+
+▼B
+     3. The methods used may include sampling, which shall be represen­
+     tative of the personal exposure of a worker.
+
+     4. The assessment and measurement referred to in paragraph 1 shall
+     be planned and carried out by competent services at suitable intervals,
+     taking particular account of the provisions of Article 7 of Directive
+     89/391/EEC concerning the necessary competent services or persons.
+     The data obtained from the assessment and/or measurement of the
+     level of exposure to noise shall be preserved in a suitable form so as
+     to permit consultation at a later stage.
+     5. When applying this Article, the assessment of the measurement
+     results shall take into account the measurement inaccuracies determined
+     in accordance with metrological practice.
+
+     6. Pursuant to Article 6(3) of Directive 89/391/EEC, the employer
+     shall give particular attention, when carrying out the risk assessment, to
+     the following:
+
+     (a) the level, type and duration of exposure, including any exposure to
+       impulsive noise;
+
+     (b) the exposure limit values and the exposure action values laid down
+       in Article 3 of this Directive;
+
+     (c) any effects concerning the health and safety of workers belonging to
+       particularly sensitive risk groups;
+     (d) as far as technically achievable, any effects on workers' health and
+       safety resulting from interactions between noise and work-related
+       ototoxic substances, and between noise and vibrations;
+
+     (e) any indirect effects on workers' health and safety resulting from
+       interactions between noise and warning signals or other sounds
+       that need to be observed in order to reduce the risk of accidents;
+
+     (f) information on noise emission provided by manufacturers of work
+       equipment in accordance with the relevant Community directives;
+
+     (g) the existence of alternative work equipment designed to reduce the
+       noise emission;
+
+     (h) the extension of exposure to noise beyond normal working hours
+       under the employer's responsibility;
+
+     (i) appropriate information obtained following health surveillance,
+       including published information, as far as possible;
+     (j) the availability of hearing protectors with adequate attenuation char­
+       acteristics.
+
+     7. The employer shall be in possession of an assessment of the risk
+     in accordance with Article 9(1)(a) of Directive 89/391/EEC, and shall
+     identify which measures must be taken in accordance with Articles 5, 6,
+     7 and 8 of this Directive. The risk assessment shall be recorded on a
+     suitable medium, according to national law and practice. The risk
+     assessment shall be kept up to date on a regular basis, particularly if
+     there have been significant changes which could render it out of date, or
+     when the results of health surveil lance show it to be necessary.
+
+--- PAGE NUMBER: 5 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 5
+
+▼B
+                      Article 5
+
+         Provisions aimed at avoiding or reducing exposure
+
+     1. Taking account of technical progress and of the availability of
+     measures to control the risk at source, the risks arising from exposure
+     to noise shall be eliminated at their source or reduced to a minimum.
+     The reduction of such risks shall be based on the general principles of
+     prevention set out in Article 6(2) of Directive 89/391/EEC, and take
+     into account in particular:
+     (a) other working methods that require less exposure to noise;
+
+     (b) the choice of appropriate work equipment, taking account of the
+       work to be done, emitting the least possible noise, including the
+       possibility of making available to workers work equipment subject
+       to Community provisions with the aim or effect of limiting
+       exposure to noise;
+     (c) the design and layout of workplaces and work stations;
+
+     (d) adequate information and training to instruct workers to use work
+       equipment correctly in order to reduce their exposure to noise to a
+       minimum;
+
+     (e) noise reduction by technical means:
+
+       (i) reducing airborne noise, e.g. by shields, enclosures, sound-
+         absorbent coverings;
+       (ii) reducing structure-borne noise, e.g. by damping or isolation;
+
+     (f) appropriate maintenance programmes for work equipment, the
+       workplace and workplace systems;
+
+     (g) organisation of work to reduce noise:
+
+       (i) limitation of the duration and intensity of the exposure;
+       (ii) appropriate work schedules with adequate rest periods.
+
+     2. On the basis of the risk assessment referred to in Article 4, if the
+     upper exposure action values are exceeded, the employer shall establish
+     and implement a programme of technical and/or organisational measures
+     intended to reduce the exposure to noise, taking into account in
+     particular the measures referred to in paragraph 1.
+     3. On the basis of the risk assessment referred to in Article 4, work­
+     places where workers are likely to be exposed to noise exceeding the
+     upper exposure action values shall be marked with appropriate signs.
+     The areas in question shall also be delimited and access to them
+     restricted where this is technically feasible and the risk of exposure
+     so justifies.
+     4. Where, owing to the nature of the activity, a worker benefits from
+     the use of rest facilities under the responsibility of the employer, noise
+     in these facilities shall be reduced to a level compatible with their
+     purpose and the conditions of use.
+     5. Pursuant to Article 15 of Directive 89/391/EEC, the employer
+     shall adapt the measures referred to in this Article to the requirements
+     of workers belonging to particularly sensitive risk groups.
+
+--- PAGE NUMBER: 6 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 6
+
+▼B
+                      Article 6
+
+                  Personal protection
+
+     1. If the risks arising from exposure to noise cannot be prevented by
+     other means, appropriate, properly fitting individual hearing protectors
+     shall be made available to workers and used by them in accordance with
+     the provisions of Council Directive 89/656/EEC of 30 November 1989
+     on the minimum health and safety requirements for the use by workers
+     of personal protective equipment at the workplace (third individual
+     Directive within the meaning of Article 16(1) of Directive
+     89/391/EEC) (1 ) and Article 13(2) of Directive 89/391/EEC and under
+     the conditions set out below:
+     (a) where noise exposure exceeds the lower exposure action values, the
+       employer shall make individual hearing protectors available to
+       workers;
+     (b) where noise exposure matches or exceeds the upper exposure action
+       values, individual hearing protectors shall be used;
+     (c) the individual hearing protectors shall be so selected as to eliminate
+       the risk to hearing or to reduce the risk to a minimum.
+
+     2. The employer shall make every effort to ensure the wearing of
+     hearing protectors and shall be responsible for checking the effec­
+     tiveness of the measures taken in compliance with this Article.
+
+
+                      Article 7
+                 Limitation of exposure
+
+     1. Under no circumstances shall the exposure of the worker as
+     determined in accordance with Article 3(2) exceed the exposure limit
+     values.
+     2. If, despite the measures taken to implement this Directive,
+     exposures above the exposure limit values are detected, the employer
+     shall:
+
+     (a) take immediate action to reduce the exposure to below the exposure
+       limit values;
+     (b) identify the reasons why overexposure has occurred; and
+
+     (c) amend the protection and prevention measures in order to avoid any
+       recurrence.
+
+
+                      Article 8
+              Worker information and training
+
+     Without prejudice to Articles 10 and 12 of Directive 89/391/EEC the
+     employer shall ensure that workers who are exposed to noise at work at
+     or above the lower exposure action values, and/or their representatives,
+     receive information and training relating to risks resulting from exposure
+     to noise concerning, in particular:
+     (a) the nature of such risks;
+
+     (1 ) OJ L 393, 30.12.1989, p. 18.
+
+--- PAGE NUMBER: 7 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 7
+
+▼B
+     (b) the measures taken to implement this Directive in order to eliminate
+       or reduce to a minimum the risks from noise, including the circum­
+       stances in which the measures apply;
+
+     (c) the exposure limit values and the exposure action values laid down
+       in Article 3 of this Directive;
+
+     (d) the results of the assessment and measurement of the noise carried
+       out in accordance with Article 4 of this Directive together with an
+       explanation of their significance and potential risks;
+
+     (e) the correct use of hearing protectors;
+
+     (f) why and how to detect and report signs of hearing damage;
+
+     (g) the circumstances in which workers are entitled to health
+       surveillance and the purpose of health surveillance, in accordance
+       with Article 10 of this Directive;
+
+     (h) safe working practices to minimise exposure to noise.
+
+
+                      Article 9
+            Consultation and participation of workers
+
+     Consultation and participation of workers and/or of their representatives
+     shall take place in accordance with Article 11 of Directive 89/391/EEC
+     on the matters covered by this Directive, in particular:
+     — the assessment of risks and identification of measures to be taken,
+       referred to in Article 4,
+
+     — the actions aimed at eliminating or reducing risks arising from
+       exposure to noise, referred to in Article 5,
+
+     — the choice of individual hearing protectors referred to in
+       Article 6(1)(c).
+
+
+                     SECTION III
+               MISCELLANEOUS PROVISIONS
+
+
+                     Article 10
+                   Health surveillance
+
+     1. Without prejudice to Article 14 of Directive 89/391/EEC, Member
+     States shall adopt provisions to ensure the appropriate health
+     surveillance of workers where the results of the assessment and
+     measurement provided for in Article 4(1) of this Directive indicate a
+     risk to their health. Those provisions, including the requirements
+     specified for health records and their availability, shall be introduced
+     in accordance with national law and/or practice.
+     2. A worker whose exposure exceeds the upper exposure action
+     values shall have the right to have his/her hearing checked by a
+     doctor or by another suitably qualified person under the responsibility
+     of a doctor, in accordance wit h national law and/or practice. Preventive
+
+--- PAGE NUMBER: 8 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 8
+
+▼B
+     audiometric testing shall also be available for workers whose exposure
+     exceeds the lower exposure action values, where the assessment and
+     measurement provided for in Article 4(1) indicate a risk to health.
+
+     The objectives of these checks are to provide early diagnosis of any loss
+     of hearing due to noise, and to preserve the hearing function.
+
+     3. Member States shall establish arrangements to ensure that, for
+     each worker who undergoes surveillance in accordance with paragraphs
+     1 and 2, individual health records are made and kept up to date. Health
+     records shall contain a summary of the results of the health surveillance
+     carried out. They shall be kept in a suitable form so as to permit any
+     consultation at a later date, taking into account any confidentiality.
+     Copies of the appropriate records shall be supplied to the competent
+     authority on request. The individual worker shall, at his or her request,
+     have access to the health records relating to him or her personally.
+     4. Where, as a result of surveillance of the hearing function, a worker
+     is found to have identifiable hearing damage, a doctor, or a specialist if
+     the doctor considers it necessary, shall assess whether the damage is
+     likely to be the result of exposure to noise at work. If this is the case:
+     (a) the worker shall be informed by the doctor or other suitably
+       qualified person of the result which relates to him or her personally;
+
+     (b) the employer shall:
+
+       (i) review the risk assessment carried out pursuant to Article 4;
+       (ii) review the measures provided for to eliminate or reduce risks
+         pursuant to Articles 5 and 6;
+
+       (iii) take into account the advice of the occupational healthcare
+         professional or other suitably qualified person or the
+         competent authority in implementing any measures required
+         to eliminate or reduce risk in accordance with Articles 5 and
+         6, including the possibility of assigning the worker to alter­
+         native work where there is no risk of further exposure; and
+       (iv) arrange systematic health surveillance and provide for a review
+         of the health status of any other worker who has been similarly
+         exposed.
+
+                     Article 11
+
+                     Derogations
+     1. In exceptional situations where, because of the nature of the work,
+     the full and proper use of individual hearing protectors would be likely
+     to cause greater risk to health or safety than not using such protectors,
+     Member States may grant derogations from the provisions of Articles
+     6(1)(a) and (b) and 7.
+
+     2. The derogations referred to in paragraph 1 shall be granted by
+     Member States following consultation with both sides of industry and,
+     where appropriate, with the medical authorities responsible, in
+     accordance with national laws and/or practice. Such derogations must
+     be accompanied by conditions which guarantee, taking into account the
+     special circumstances, that the resulting risks are reduced to a minimum
+     and that the workers concerned are subject to increased health surveil­
+     lance. Such derogations shall be reviewed every four years and
+     withdrawn as soon as the justifying circumstances no longer obtain.
+
+--- PAGE NUMBER: 9 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 9
+
+▼B
+     3. Every four years Member States shall forward to the Commission
+     a list of derogations referred to in paragraph 1, indicating the exact
+     reasons and circumstances which made them decide to grant the dero­
+     gations.
+
+▼M3
+                     Article 12
+
+                Amendments to the Directive
+     The Commission is empowered to adopt delegated acts in accordance
+     with Article 12a to make strictly technical amendments to this Directive
+     in order to take account of technical harmonisation and standardisation
+     with regard to the design, building, manufacture or construction of work
+     equipment and workplaces, technical progress, changes in harmonised
+     European standards or specifications and new findings concerning noise.
+
+     Where, in duly justified and exceptional cases involving imminent,
+     direct and serious risks to workers’ and other persons’ physical health
+     and safety, imperative grounds of urgency require action in a very short
+     timeframe, the procedure provided for in Article 12b shall apply to
+     delegated acts adopted pursuant to this Article.
+
+                     Article 12a
+                 Exercise of the delegation
+
+     1. The power to adopt delegated acts is conferred on the Commission
+     subject to the conditions laid down in this Article.
+
+     2. The power to adopt delegated acts referred to in Article 12 shall
+     be conferred on the Commission for a period of five years from 26 July
+     2019. The Commission shall draw up a report in respect of the
+     delegation of power not later than nine months before the end of the
+     five-year period. The delegation of power shall be tacitly extended for
+     periods of an identical duration, unless the European Parliament or the
+     Council opposes such extension not later than three months before the
+     end of each period.
+     3. The delegation of power referred to in Article 12 may be revoked
+     at any time by the European Parliament or by the Council. A decision to
+     revoke shall put an end to the delegation of the power specified in that
+     decision. It shall take effect the day following the publication of the
+     decision in the Official Journal of the European Union or at a later date
+     specified therein. It shall not affect the validity of any delegated acts
+     already in force.
+     4. Before adopting a delegated act, the Commission shall consult
+     experts designated by each Member State in accordance with the prin­
+     ciples laid down in the Interinstitutional Agreement of 13 April 2016 on
+     Better Law-Making (1 ).
+     5. As soon as it adopts a delegated act, the Commission shall notify
+     it simultaneously to the European Parliament and to the Council.
+
+     6. A delegated act adopted pursuant to Article 12 shall enter into
+     force only if no objection has been expressed either by the European
+     Parliament or the Council within a period of two months of notification
+     of that act to the European Parliament and the Council or if, before
+     (1 ) OJ L 123, 12.5.2016, p. 1.
+
+--- PAGE NUMBER: 10 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 10
+
+▼M3
+     the expiry of that period, the European Parliament and the Council have
+     both informed the Commission that they will not object. That period
+     shall be extended by two months at the initiative of the European
+     Parliament or of the Council.
+
+
+                     Article 12b
+                   Urgency procedure
+
+     1. Delegated acts adopted under this Article shall enter into force
+     without delay and shall apply as long as no objection is expressed in
+     accordance with paragraph 2. The notification of a delegated act to the
+     European Parliament and the Council shall state the reasons for the use
+     of the urgency procedure.
+
+     2. Either the European Parliament or the Council may object to a
+     delegated act in accordance with the procedure referred to in
+     Article 12a(6). In such a case, the Commission shall repeal the act
+     immediately following the notification of the decision to object by the
+     European Parliament or by the Council.
+                     __________
+
+
+▼B
+
+                     Article 14
+                   Code of conduct
+
+     In the context of the application of this directive Member States shall
+     draw up in consultation with the social partners, in accordance with
+     national law and practice, a code of conduct providing for practical
+     guidelines to help workers and employers in the music and enter­
+     tainment sectors to meet their legal obligations as laid down in this
+     Directive.
+
+                     Article 15
+                      Repeal
+
+     Directive 86/188/EEC is hereby repealed with effect from the date set
+     out in the first subparagraph of Article 17(1).
+
+
+                     SECTION IV
+                  FINAL PROVISIONS
+
+▼M1
+                     __________
+
+▼B
+                     Article 17
+
+                    Transposition
+     1. The Member States shall bring into force the laws, regulations and
+     administrative provisions necessary to comply with this Directive before
+     15 February 2006. They sha ll forthwith inform the Commission thereof.
+
+--- PAGE NUMBER: 11 ---
+
+02003L0010 — EN — 26.07.2019 — 003.001 — 11
+
+▼B
+     When Member States adopt these measures, they shall contain a
+     reference to this Directive or shall be accompanied by such reference
+     on the occasion of their official publication. The methods of making
+     such reference shall be laid down by the Member States.
+     2. In order to take account of particular conditions, Member States
+     may, if necessary, have an additional period of five years from 15
+     February 2006, that is to say a total of eight years, to implement the
+     provisions of Article 7 with regard to the personnel on board seagoing
+     vessels.
+     In order to allow for the drawing up of a code of conduct providing for
+     practical guidelines for the implementation of the provisions of this
+     Directive, Member States shall be entitled to make use of a maximum
+     transitional period of two years from 15 February 2006, that is to say a
+     total of five years from the entry into force of this Directive, to comply
+     with this Directive, with regard to the music and entertainment sectors
+     on the condition that during this period the levels of protection already
+     achieved in individual Member States, with regard to the personnel in
+     these sectors, are maintained.
+     3. The Member States shall communicate to the Commission the text
+     of the provisions of national law which they adopt or have already
+     adopted in the field covered by this Directive.
+                     Article 18
+                   Entry into force
+
+     This Directive shall enter into force on the day of its publication in the
+     Official Journal of the European Union.
+
+                     Article 19
+                     Addressees
+
+     This Directive is addressed to the Member States.
