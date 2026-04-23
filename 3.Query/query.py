@@ -14,7 +14,7 @@ COLLECTION_NAME = "hs_laws"
 # ---------------------------------------------------------------------------
 
 _COMPARISON_SYSTEM = (
-    "You are a precise EU Health & Safety legal analyst. "
+    "You are a precise Health & Safety legal analyst. "
     "Follow the output format exactly. Never invent provisions not present in the excerpts."
 )
 
@@ -57,7 +57,7 @@ Substantive → affects rights, duties, thresholds, or legal obligations
 
 OUTPUT FORMAT
 -------------
-1. Start with a concise executive summary (3–5 sentences) covering the overall scope of changes.
+1. Start with a concise executive summary (3 - 5 sentences) covering the overall scope of changes.
 2. Then produce a markdown table with EXACTLY these columns:
 
 | Legal Unit | Topic | Old Version | New Version | Change Type | Practical Impact | Materiality | Explanation |
