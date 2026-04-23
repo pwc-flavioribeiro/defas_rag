@@ -173,6 +173,7 @@ class QueryPipeline:
         question: str,
         chunks_by_year: Dict[int, List[Dict]],
         all_years: List[int],
+        history: Optional[List[Dict]] = None,
     ) -> List[Dict]:
         old_year = all_years[0]
         new_year = all_years[-1]
@@ -192,20 +193,24 @@ class QueryPipeline:
             new_context=self._format_context(chunks_by_year[new_year]),
             intermediate_note=intermediate_note,
         )
-        return [
-            {"role": "system", "content": _COMPARISON_SYSTEM},
-            {"role": "user",   "content": user},
-        ]
+        messages = [{"role": "system", "content": _COMPARISON_SYSTEM}]
+        if history:
+            messages.extend(history)
+        messages.append({"role": "user", "content": user})
+        return messages
 
-    def _standard_messages(self, question: str, chunks: List[Dict]) -> List[Dict]:
+    def _standard_messages(
+        self, question: str, chunks: List[Dict], history: Optional[List[Dict]] = None
+    ) -> List[Dict]:
         user = _STANDARD_USER.format(
             question=question,
             context=self._format_context(chunks),
         )
-        return [
-            {"role": "system", "content": _STANDARD_SYSTEM},
-            {"role": "user",   "content": user},
-        ]
+        messages = [{"role": "system", "content": _STANDARD_SYSTEM}]
+        if history:
+            messages.extend(history)
+        messages.append({"role": "user", "content": user})
+        return messages
 
     # ── Main entry points ────────────────────────────────────────────────────
 
@@ -214,7 +219,10 @@ class QueryPipeline:
         return answer
 
     def run_with_sources(
-        self, question: str, law_group: Optional[str] = None
+        self,
+        question: str,
+        law_group: Optional[str] = None,
+        history: Optional[List[Dict]] = None,
     ) -> Tuple[str, List[Dict]]:
         """
         Full RAG pipeline.
@@ -242,7 +250,7 @@ class QueryPipeline:
                 year: self._retrieve_per_version(question, target_group, year)
                 for year in years
             }
-            messages   = self._comparison_messages(question, chunks_by_year, years)
+            messages   = self._comparison_messages(question, chunks_by_year, years, history=history)
             all_chunks = [c for v in chunks_by_year.values() for c in v]
 
         # ── Standard mode ────────────────────────────────────────────────────
@@ -252,7 +260,7 @@ class QueryPipeline:
                 if years
                 else self.retrieve(question, law_group=law_group)
             )
-            messages = self._standard_messages(question, all_chunks)
+            messages = self._standard_messages(question, all_chunks, history=history)
 
         if not all_chunks:
             return "No relevant content found in the knowledge base.", []

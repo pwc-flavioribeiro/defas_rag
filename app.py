@@ -88,7 +88,15 @@ if prompt := st.chat_input("Ask about H&S laws — e.g. 'What changed in the noi
         with st.spinner("Searching directives..."):
             try:
                 pipeline = get_pipeline()
-                answer, sources = pipeline.run_with_sources(prompt, law_group=selected_law_group)
+                # Build history from all previous turns (exclude the current user message just appended)
+                history = [
+                    {"role": msg["role"], "content": msg["content"]}
+                    for msg in st.session_state.messages[:-1]
+                    if msg.get("content")
+                ]
+                answer, sources = pipeline.run_with_sources(
+                    prompt, law_group=selected_law_group, history=history or None
+                )
             except Exception as e:
                 answer  = None
                 sources = []
