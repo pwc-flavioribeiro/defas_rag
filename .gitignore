@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+output/chroma_db/
+output/txt/
+output/json/
